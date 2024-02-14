@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AppTest (1)" project="Assignment" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="Demo.Demo1.AppTest" time="58.09">
+    <testcase name="AlertHandling" classname="Demo.Demo1.AppTest" time="23.001"/>
+    <testcase name="signUpTest" classname="Demo.Demo1.AppTest" time="9.413"/>
+    <testcase name="iframe" classname="Demo.Demo1.AppTest" time="6.842"/>
+    <testcase name="delay" classname="Demo.Demo1.AppTest" time="12.238"/>
+    <testcase name="dragAndDrop" classname="Demo.Demo1.AppTest" time="6.594"/>
+  </testsuite>
+</testrun>
